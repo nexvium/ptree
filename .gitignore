@@ -1,0 +1,9 @@
+*~
+.*.swp
+a.out
+a.exe
+*.[oa]
+*.so
+*.so.[0-9]*
+*_dbg
+*_opt
